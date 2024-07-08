@@ -95,5 +95,7 @@ post reply" section and provide a summary of what you did to resolve the issue. 
 </p>
 <br />
 <img width="967" alt="Screen Shot 2024-07-08 at 9 58 44 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/784afa41-ad72-4e4e-a649-130843673e45">
-
 </p>
+</p>
+
+While closing the tickets, observe that they will start to dissappear from the "Open" section under the tickets tab, and appear in the "Closed" Section. Once you close all of them, none will be left in the open section and all of them will appear under the closed section!
