@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Browse to End-user URL for OsTicket: http://localhost/osTicket/. From here we can create tickets as our users created in the previous repository. 
+Browse to End-User URL for OsTicket: http://localhost/osTicket/. From here we can create tickets as our users created in the previous repository. 
 </p>
 <br />
 
@@ -44,15 +44,11 @@ Browse to End-user URL for OsTicket: http://localhost/osTicket/. From here we ca
 </p>
 <br />
 <img width="789" alt="Screen Shot 2024-07-08 at 10 00 21 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/3babf61a-0093-4ec6-874d-f77cd9194fc7">
-</p>
-<br />
-<img width="754" alt="Screen Shot 2024-07-08 at 10 00 56 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/7a1b8c26-57f1-4771-9bfa-72b55050ee58">
-
 
 
 </p>
 <p>
-Enter Credentials of either of the created users and create tickets for common business issues. Select one of the help topics we created in a previous repository. For example:"Business Critical outage" or geeral inquiry. This should coincide with the issue that you are entering.  "Entire online mobile banking system is down!" would be classified as a "Business Critical Outage" You should also enter a quick summary of the issues to make it easier on the Agents working the tickets. 
+Enter Credentials of either of the created users and create tickets for common business issues. Select one of the help topics we created in a previous repository. For example:"Business Critical outage" or general inquiry. This should coincide with the issue that you are entering. For example:  "Entire online mobile banking system is down!" would be classified as a "Business Critical Outage". You should also enter a quick summary of the issues to make it easier on the agents working the tickets. 
 </p>
 <br />
 
@@ -61,7 +57,7 @@ Enter Credentials of either of the created users and create tickets for common b
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the help desk login page: http://localhost/osTicket/scp/login.php and login as one of the agents that we created in the previous repositry. Navigate to Tickets -> Open and observe the tickets you just created.    
 </p>
 <br />
 
@@ -75,6 +71,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click inside one of the tickets and update it to the approporiate Priority, SLA plan, and Department. The Priority and SLA plan should coincide with the percieved impact that the event has on the business. 
 </p>
 <br />
+
+
+<p>
+<img width="935" alt="Screen Shot 2024-07-08 at 9 59 03 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/3286e6cc-d85c-47e8-98a2-60ed9455a503">
+</p>
+<br />
+<img width="958" alt="Screen Shot 2024-07-08 at 9 58 22 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/90818619-360e-48f1-adee-a2974d4bf1b2">
+
+
+</p>
+<p>
+Go down to the ticket threads and start closing the tickets. To do this you will have to go to the "
+post reply" section and provide a summary of what you did to resolve the issue. You can also use this section to provide updates on the ticket to the team. Once you enter the summary, in the ticket status section, you have to select "Resolved" to close the ticket. Certain tickets are assigned to certain agents so you will have to login as that agent to close it. 
+</p>
+<br />
+
+<p>
+<img width="953" alt="Screen Shot 2024-07-08 at 9 58 54 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/4f27fbc3-488f-4546-a731-5f5a6f6d2be7">
+</p>
+<br />
+<img width="967" alt="Screen Shot 2024-07-08 at 9 58 44 AM" src="https://github.com/Bpeduru/ticket-lifecycle/assets/171273980/784afa41-ad72-4e4e-a649-130843673e45">
+
+</p>
